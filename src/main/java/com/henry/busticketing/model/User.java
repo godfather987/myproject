@@ -13,12 +13,13 @@ import lombok.Setter;
 public class User {
 	@Id
 	@GeneratedValue
-	private int id;
+	private long id;
 	private String firstname;
 	private String lastname;
 	private String email;
+	private String address;
 	private String password;
-	public int getId() {
+	public long getId() {
 		return id;
 	}
 	public void setId(int id) {

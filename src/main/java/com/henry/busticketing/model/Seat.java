@@ -1,6 +1,6 @@
 package com.henry.busticketing.model;
 
-class Seat {
+public class Seat {
 	
 	private int seatid;
 	private Bus busid;

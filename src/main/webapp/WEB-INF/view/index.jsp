@@ -8,12 +8,16 @@
     <title>Cloud BUS - HTML Bootstrap Template</title>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/webjars/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <script src="/webjars/jquery/3.1.1/jquery.min.js"></script>    
+	<script src="/webjars/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+ <!--     <link href="css/bootstrap.min.css" rel="stylesheet">  -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/animate.css">
 	<link rel="stylesheet" href="css/overwrite.css">
 	<link href="css/animate.min.css" rel="stylesheet"> 
 	<link href="css/style.css" rel="stylesheet" />	
+	
     <!-- =======================================================
         Theme Name: RISHABH BUS
         Theme URL: https://bootstrapmade.com/RISHABH BUS-free-simple-landing-page-template/

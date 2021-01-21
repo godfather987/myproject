@@ -11,10 +11,13 @@ import lombok.Setter;
 public class Bus {
 	@Id
 	@GeneratedValue
-	public int busid;
-	public int busno;
-	public int seats;
-	public String routes;
+	private int busid;
+	private int busno;
+	private 
+	
+	
+	private int seats;
+	private String routes;
 	
 	public int getBusid() {
 		return busid;
